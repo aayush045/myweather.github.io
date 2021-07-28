@@ -6,7 +6,7 @@
 
 body {
   font-family: "montserrat", sans-serif;
-  background-image:url("bg-winter.jpg");
+  background-image:url("./bg-winter.jpg");
   background-size: cover;
   background-position: top center;
 }
